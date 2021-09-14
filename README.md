@@ -1,3 +1,9 @@
+<div align="center">
+  ![simplecalculator](https://user-images.githubusercontent.com/54644738/133309341-f9c34d9f-c99e-4538-b07b-00c1fe9f6fd1.jpg)
+</div>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
